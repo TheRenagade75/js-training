@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/TheRenagade75/js-training.svg?branch=master)](https://travis-ci.com/TheRenagade75/js-training)
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
-### globals dependencies
+### globals dependencie
 install globaly node on your computer
 
 ```sh

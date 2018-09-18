@@ -10,7 +10,12 @@
  */
 
 // Your code :
-
+function max (i,h){
+    if (i>h)
+    return i
+    else
+    return h
+}
 //* Begin of tests
 const assert = require('assert')
 

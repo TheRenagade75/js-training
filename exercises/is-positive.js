@@ -8,6 +8,11 @@
  */
 
 // Your code:
+function isPositive(i){
+    if (i>0){
+    return true}
+    else{
+        return false}}
 
 
 //* Begin of tests
